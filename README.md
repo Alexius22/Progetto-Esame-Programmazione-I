@@ -1,2 +1,2 @@
 # Gieson
-Progetto esame Programmazione I a.a. 2017/2017 dell'Università di Perugia.
+Progetto esame Programmazione I A.A. 2017/2018 dell'Università di Perugia.
